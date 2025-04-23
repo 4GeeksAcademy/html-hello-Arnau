@@ -1,0 +1,107 @@
+body {
+  background-color: black;
+    height: 100px;
+    margin: 0;
+    padding: 0;
+  }
+
+.post {
+margin: 0 auto;
+width: 400px;
+margin: 0 auto;
+background-color: white;
+}
+
+.post-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 14px 16px;
+}
+
+.post-img {
+  width: 400px;
+  height:400px;
+overflow: hidden;
+display: block;
+
+
+}
+
+.icons-header  {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 15px;
+
+}
+
+.left-side {
+  display: flex;
+  align-items: center;
+}
+
+.icons-header i:last-child {
+  margin-left: 220px;
+}
+
+.text-header {
+  display: flex;
+  flex-direction: column;
+  margin-left: 10px;
+}
+
+
+.post-icons i {
+  padding: 10px;
+}
+.post-icons i:last-child {
+  margin-left:200px;
+
+}
+
+.text-header h3,
+.text-header p {
+  margin: 0;
+  padding: 0;
+  line-height: 1.2;
+}
+
+.post-body {
+  padding: 0 10px; 
+  margin-top: 5px; 
+  margin-bottom: 5px; 
+  line-height: 1.2; 
+}
+
+.post-body p {
+  margin-bottom: 5px; 
+}
+
+.fa-html5 {
+  font-size: 27px;
+}
+
+.fa-ellipsis-vertical {
+  font-size: 24px;
+}
+
+.fa-heart {
+  font-size: 24px;
+}
+
+.fa-comment {
+  font-size: 24px;
+}
+
+.fa-paper-plane {
+  font-size:24px;
+}
+
+.fa-bookmark {
+  font-size: 24px;
+}
+
+
+
+  
